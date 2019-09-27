@@ -1,0 +1,19 @@
+﻿.swagger-section #header {
+    background-color: #440066;
+}
+
+.swagger-section #api_selector input {
+    visibility: hidden;
+}
+
+.swagger-section #input_baseUrl {
+    visibility: hidden;
+}
+
+.swagger-section #explore {
+    visibility: hidden;
+}
+
+.swagger-section .swagger-ui-wrap .info_title {
+    visibility: hidden;
+}
